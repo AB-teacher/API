@@ -10,6 +10,7 @@ public class Message {
 	private Date createdDate;
 	private String author;
 	private int reviewer_id;
+	private int msgtype;
 	public int getId() {
 		return id;
 	}
@@ -33,6 +34,12 @@ public class Message {
 	}
 	public void setAuthor(String author) {
 		this.author = author;
+	}
+	public int getReviewerId() {
+		return reviewer_id;
+	}
+	public void setReviewerId(int id) {
+		this.reviewer_id = id;
 	}
 	public Message(int id, String message, String author) {
 		super();
