@@ -43,7 +43,16 @@ public class Message {
 	public void setAuthor(String author) {
 		this.author = author;
 	}
+<<<<<<< HEAD
 
+=======
+	public int getReviewerId() {
+		return reviewer_id;
+	}
+	public void setReviewerId(int id) {
+		this.reviewer_id = id;
+	}
+>>>>>>> 1889ca452374ce6cc73a7ef210868160590e6845
 	public Message(int id, String message, String author) {
 		super();
 		this.id = id;
