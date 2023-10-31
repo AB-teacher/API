@@ -10,6 +10,16 @@ public class Message {
 	private Date createdDate;
 	private String author;
 	private int reviewer_id;
+	private int temp;
+	
+	public int getTemp() {
+		return temp;
+	}
+	
+	public void setTemp(int temp) {
+		this.temp = temp;
+	}
+	
 	public int getId() {
 		return id;
 	}
@@ -44,5 +54,7 @@ public class Message {
 	public Message() {
 		
 	}
+	
+	
 	
 }
