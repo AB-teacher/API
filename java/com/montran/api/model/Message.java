@@ -10,6 +10,7 @@ public class Message {
 	private Date createdDate;
 	private String author;
 	private int reviewer_id;
+	private String name;
 	public int getId() {
 		return id;
 	}
