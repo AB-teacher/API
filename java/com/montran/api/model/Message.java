@@ -52,7 +52,7 @@ public class Message {
 		this.createdDate = new Date();
 	}
 	public Message() {
-		
+		System.out.println("message - sharvil");
 	}
 	
 	
