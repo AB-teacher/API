@@ -9,6 +9,7 @@ public class Message {
 	private String message;
 	private Date createdDate;
 	private String author;
+	private int reviewer_id;
 	public int getId() {
 		return id;
 	}
