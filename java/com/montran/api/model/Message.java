@@ -11,7 +11,7 @@ public class Message {
 	private String author;
 	private int reviewer_id;
 	private String rev_author;
-
+   private int name;
 	public int getId() {
 		return id;
 	}
