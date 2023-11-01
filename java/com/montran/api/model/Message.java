@@ -96,7 +96,7 @@ public class Message {
 
 	public Message() {
 <<<<<<< HEAD
-<<<<<<< HEAD
+<<<<<<< HEAD	
 		// <<<<<<< HEAD
 =======
 <<<<<<< HEAD
