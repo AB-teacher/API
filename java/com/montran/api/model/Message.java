@@ -91,10 +91,14 @@ public class Message {
 
 	public Message() {
 <<<<<<< HEAD
+<<<<<<< HEAD
 		// <<<<<<< HEAD
 =======
 <<<<<<< HEAD
 		System.out.println("message - sharvil");
+=======
+		System.out.println("HELLO");
+>>>>>>> smm
 	}
 	
 	
