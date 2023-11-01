@@ -11,12 +11,33 @@ public class Message {
 	private Date createdDate;
 	private String author;
 	private int reviewer_id;
+<<<<<<< HEAD
 	// <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+	private int temp;
+	
+	public int getTemp() {
+		return temp;
+	}
+	
+	public void setTemp(int temp) {
+		this.temp = temp;
+	}
+	
+=======
+<<<<<<< HEAD
+>>>>>>> 24c68de4e013c3c682c1e360489e605e3e594ace
 
 	// =======
 	private int msgtype;
+<<<<<<< HEAD
 
 	// >>>>>>> ef5ff4d0afa6e0747eb2e39ff589d42feead8e3c
+=======
+>>>>>>> ef5ff4d0afa6e0747eb2e39ff589d42feead8e3c
+>>>>>>> 0a7d1507c6224ffc256e258318c14cbd6a09ae62
+>>>>>>> 24c68de4e013c3c682c1e360489e605e3e594ace
 	public int getId() {
 		return id;
 	}
@@ -69,11 +90,23 @@ public class Message {
 	}
 
 	public Message() {
+<<<<<<< HEAD
 		// <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+		System.out.println("message - sharvil");
+	}
+	
+	
+	
+=======
+<<<<<<< HEAD
+>>>>>>> 24c68de4e013c3c682c1e360489e605e3e594ace
 		System.out.println("ore wa Shubham Ghule");
 		// =======
 		System.out.println("hi");
 		// >>>>>>> ef5ff4d0afa6e0747eb2e39ff589d42feead8e3c
 	}
 
+>>>>>>> 0a7d1507c6224ffc256e258318c14cbd6a09ae62
 }
