@@ -11,11 +11,12 @@ public class Message {
 	private Date createdDate;
 	private String author;
 	private int reviewer_id;
-<<<<<<< HEAD
+	// <<<<<<< HEAD
 
-=======
+	// =======
 	private int msgtype;
->>>>>>> ef5ff4d0afa6e0747eb2e39ff589d42feead8e3c
+
+	// >>>>>>> ef5ff4d0afa6e0747eb2e39ff589d42feead8e3c
 	public int getId() {
 		return id;
 	}
@@ -47,16 +48,18 @@ public class Message {
 	public void setAuthor(String author) {
 		this.author = author;
 	}
-<<<<<<< HEAD
+	// <<<<<<< HEAD
 
-=======
+	// =======
 	public int getReviewerId() {
 		return reviewer_id;
 	}
+
 	public void setReviewerId(int id) {
 		this.reviewer_id = id;
 	}
->>>>>>> 1889ca452374ce6cc73a7ef210868160590e6845
+
+	// >>>>>>> 1889ca452374ce6cc73a7ef210868160590e6845
 	public Message(int id, String message, String author) {
 		super();
 		this.id = id;
@@ -66,11 +69,11 @@ public class Message {
 	}
 
 	public Message() {
-<<<<<<< HEAD
+		// <<<<<<< HEAD
 		System.out.println("ore wa Shubham Ghule");
-=======
+		// =======
 		System.out.println("hi");
->>>>>>> ef5ff4d0afa6e0747eb2e39ff589d42feead8e3c
+		// >>>>>>> ef5ff4d0afa6e0747eb2e39ff589d42feead8e3c
 	}
 
 }
