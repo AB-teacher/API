@@ -11,7 +11,11 @@ public class Message {
 	private Date createdDate;
 	private String author;
 	private int reviewer_id;
+<<<<<<< HEAD
 
+=======
+	private int msgtype;
+>>>>>>> ef5ff4d0afa6e0747eb2e39ff589d42feead8e3c
 	public int getId() {
 		return id;
 	}
@@ -62,7 +66,11 @@ public class Message {
 	}
 
 	public Message() {
+<<<<<<< HEAD
 		System.out.println("ore wa Shubham Ghule");
+=======
+		System.out.println("hi");
+>>>>>>> ef5ff4d0afa6e0747eb2e39ff589d42feead8e3c
 	}
 
 }
