@@ -10,6 +10,7 @@ public class Message {
 	private String message;
 	private Date createdDate;
 	private String author;
+<<<<<<< HEAD
 	private int reviewer_id;
 <<<<<<< HEAD
 	private int temp;
@@ -29,6 +30,8 @@ public class Message {
 	private int msgtype;
 >>>>>>> ef5ff4d0afa6e0747eb2e39ff589d42feead8e3c
 >>>>>>> 0a7d1507c6224ffc256e258318c14cbd6a09ae62
+=======
+>>>>>>> parent of c4bc63e (to add new reviewer id)
 	public int getId() {
 		return id;
 	}
