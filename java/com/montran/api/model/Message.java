@@ -12,6 +12,10 @@ public class Message {
 	private String author;
 	private int reviewer_id;
 <<<<<<< HEAD
+	private String rev_author;
+
+=======
+<<<<<<< HEAD
 	// <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -38,6 +42,7 @@ public class Message {
 >>>>>>> ef5ff4d0afa6e0747eb2e39ff589d42feead8e3c
 >>>>>>> 0a7d1507c6224ffc256e258318c14cbd6a09ae62
 >>>>>>> 24c68de4e013c3c682c1e360489e605e3e594ace
+>>>>>>> 8a79eb4893388548f48b869153edb29b6c16edee
 	public int getId() {
 		return id;
 	}
@@ -91,11 +96,18 @@ public class Message {
 
 	public Message() {
 <<<<<<< HEAD
+<<<<<<< HEAD
 		// <<<<<<< HEAD
 =======
 <<<<<<< HEAD
 		System.out.println("message - sharvil");
+<<<<<<< HEAD
 		System.out.println("message- Hello sharvil");
+=======
+=======
+		System.out.println("HELLO");
+>>>>>>> smm
+>>>>>>> be0396833a2c10e7142a8f706b34be7577700bc1
 	}
 	
 	
