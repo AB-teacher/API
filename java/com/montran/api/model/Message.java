@@ -83,9 +83,19 @@ public class Message {
 	public Message() {
 
 		System.out.println("message - sharvil");
+<<<<<<< HEAD
 
 		System.out.println("HELLO");
 
+=======
+<<<<<<< HEAD
+		System.out.println("message- Hello sharvil");
+=======
+=======
+		System.out.println("HELLO");
+>>>>>>> smm
+>>>>>>> d31ce408ea2329ad55224d3016c014d7e827a2a9
+>>>>>>> 1b2ee668aedcd75593e4ef279ff87001a3ff23d6
 	}
 
 		System.out.println("ore wa Shubham Ghule");
